@@ -19,9 +19,9 @@ def cached_dotenv():
 
 cached_dotenv()
 
-AIRTABLE_BASE_ID = os.environ.get("AIRTABLE_BASE_ID")
-AIRTABLE_API_KEY = os.environ.get("AIRTABLE_API_KEY")
-AIRTABLE_TABLE_NAME = os.environ.get("AIRTABLE_TABLE_NAME")
+AIRTABLE_BASE_ID = 'appvBciTE0MN5cnAx'
+AIRTABLE_API_KEY = 'keyNL4sWwqCW1O34r'
+AIRTABLE_TABLE_NAME = 'fastapi-to-airtable'
 
 
 
